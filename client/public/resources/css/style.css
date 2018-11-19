@@ -1,0 +1,17 @@
+.img-landing {
+  width: 70%;
+  margin: 80px auto;
+}
+.main-section {
+  position: relative;
+}
+.title-box {
+  padding: 30px 50px;
+  background-color: #fff;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 30px;
+  border: 2px solid #ee6e73;
+}
